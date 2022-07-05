@@ -1,0 +1,13 @@
+#image{
+    margin: auto;
+    max-width:fit-content;
+    max-height: fit-content;
+    
+}
+body{
+    text-align: center;
+}
+li{
+    text-align: left;
+    list-style-position: inside;
+}
