@@ -1,18 +1,4 @@
-/* #image{
-    margin: auto;
-    max-width:fit-content;
-    max-height: fit-content;
-    
-}
-body{
-    text-align: center;
-}
-li{
-    text-align: left;
-    list-style-position: inside;
-} */
-
-body{
+body {
     text-align: center;
 }
 
@@ -21,8 +7,10 @@ ul {
     margin-inline: auto;
 }
 
-li{
+li {
     text-align: left;
+    line-height: 1.5rem;
+    margin-block: 0.75rem;
 }
 
 #img-div {
@@ -31,7 +19,6 @@ li{
 
 #image {
     max-width: 100%;
-    margin-inline: auto; 
+    margin-inline: auto;
     display: block;
 }
-
