@@ -16,7 +16,11 @@
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
 
-- Clone this repo using this URL (link) or download it as a ZIP format from the green button above under the text Code.
+- Clone this repo using this URL (https://github.com/adel-gu/tribute-page-project.git).
+- Or download it as a ZIP format from the green button above under the text Code.
+
+After that navigate to tribute-page-project/fcc-test-suite-template-master/, 
+you will find `index.html` file, right click and chose you prefered browser to open it 🎉  
 
 ## Authors
 
@@ -40,8 +44,5 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- freeCodeCamp ❤
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+- freeCodeCamp 💚
+- Microverse 💜
